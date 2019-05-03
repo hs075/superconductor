@@ -5,6 +5,7 @@ BCS理論に基づき、ギャップ方程式を数値的に解いて、比熱�
 超伝導リードのギャップ$\Delta$が無限大($\Delta\to \infty$)の場合のジョセフソン電流を計算した。
 参考
 * [Yoshihide Tanaka, Akira Oguri, and A C Hewson,Kondo effect in asymmetric Josephson couplings through a quantum dot,New Journal of Physics, Volume 9, May 2007 ](https://iopscience.iop.org/article/10.1088/1367-2630/9/5/115)
+
 QDとリードの接合系をまとめたreview
 * [A. Mart ́ın-Rodero and A. Levy Yeyati,Josephson and Andreev transport through quantum dots,arXiv:1111.4939](https://arxiv.org/abs/1111.4939)
 ## [S/QD/S接合系におけるQD中の電子のスペクトル関数](https://github.com/hs075/superconductor/blob/master/DOM_AtS-dot-S.ipynb)
